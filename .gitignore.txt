@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Ambiente Virtual (se você usar)
+venv/
+env/
+.env
+
+# Editor settings
+.vscode/
+.idea/
+
+# Arquivos temporários do seu script (se houver)
+fotos_temp/
+*.zip
